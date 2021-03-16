@@ -57,7 +57,7 @@ body{
 .porta{
     position: absolute;
     top: 327px;
-    left: 445px;
+    left: 365px;
     background-color: cornsilk;
     height: 240px;
     width: 10%;
@@ -66,8 +66,36 @@ body{
 .macaneta{
     position: absolute;
     top: 450px;
-    left: 460px;
+    left: 370px;
     background-color: chocolate;
     height: 10px;
     width: 10px;
 }
+
+.janela{
+    position: absolute;
+    top: 350px;
+    left: 570px;
+    background-color: cornsilk;
+    height: 100px;
+    width: 100px;
+}
+
+.janela1{
+    position: absolute;
+    top: 350px;
+    left: 620px;
+    background-color: chocolate;
+    height: 100px;
+    width: 5px;
+}
+
+.janela2{
+    position: absolute;
+    top: 400px;
+    left: 570px;
+    background-color: chocolate;
+    height: 5px;
+    width: 100px;
+}
+
